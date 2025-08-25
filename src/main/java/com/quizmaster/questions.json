@@ -1,27 +1,27 @@
 [
   {
-    "questionText": "What is the capital of France?",
+    "question": "What is the capital of France?",
     "options": ["Berlin", "Madrid", "Paris", "Rome"],
-    "correctAnswer": "Paris"
+    "answer": "Paris"
   },
   {
-    "questionText": "Which planet is known as the Red Planet?",
+    "question": "Which planet is known as the Red Planet?",
     "options": ["Earth", "Mars", "Jupiter", "Venus"],
-    "correctAnswer": "Mars"
+    "answer": "Mars"
   },
   {
-    "questionText": "What is the largest mammal in the world?",
+    "question": "What is the largest mammal in the world?",
     "options": ["Elephant", "Blue Whale", "Giraffe", "Polar Bear"],
-    "correctAnswer": "Blue Whale"
+    "answer": "Blue Whale"
   },
   {
-    "questionText": "Who wrote the play 'Romeo and Juliet'?",
+    "question": "Who wrote the play 'Romeo and Juliet'?",
     "options": ["Leo Tolstoy", "William Shakespeare", "Mark Twain", "Jane Austen"],
-    "correctAnswer": "William Shakespeare"
+    "answer": "William Shakespeare"
   },
   {
-    "questionText": "What is the boiling point of water in Celsius?",
+    "question": "What is the boiling point of water in Celsius?",
     "options": ["90", "100", "110", "120"],
-    "correctAnswer": "100"
+    "answer": "100"
   }
 ]
